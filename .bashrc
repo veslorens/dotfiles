@@ -1,6 +1,8 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
 
 # Core
+alias l="ls" # List files in current directory
+alias ll="ls -al" # List all files in current directory in long list format
 alias y-irptas="cd /var/www/html/irptas"
 alias y-citiport="cd /var/www/html/citiport"
 
