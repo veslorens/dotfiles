@@ -16,6 +16,8 @@ export EDITOR='nano'
 alias l="ls" # List files in current directory
 alias ll="ls -al" # List all files in current directory in long list format
 alias o="open ." # Open the current directory in Finder
+alias y-irptas="cd ~/code/port81lv8php81node14/src/irptas"
+alias y-citiport="cd ~/code/port81lv8php81node14/src/citiport"
 
 # ----------------------
 # Git Aliases
